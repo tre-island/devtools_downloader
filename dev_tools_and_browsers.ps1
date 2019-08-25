@@ -21,3 +21,5 @@ scoop install vscode
 scoop install eclipse-java
 scoop bucket add jetbrains
 scoop install IntelliJ-IDEA
+scoop install python
+scoop install nodejs
