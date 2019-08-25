@@ -8,10 +8,10 @@ TRY
 Catch
 {
 	iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
-
-	scoop install git
 }
 
+scoop update
+scoop install git
 scoop bucket add extras
 scoop install firefox
 scoop install googlechrome
