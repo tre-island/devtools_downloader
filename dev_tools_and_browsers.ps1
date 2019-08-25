@@ -18,8 +18,8 @@ scoop install googlechrome
 scoop install 7zip
 scoop install atom
 scoop install vscode
+scoop install python
+scoop install nodejs
 scoop install eclipse-java
 scoop bucket add jetbrains
 scoop install IntelliJ-IDEA
-scoop install python
-scoop install nodejs
